@@ -1,0 +1,28 @@
+// let z = questions.length
+// console.log(z);
+
+// let y = questions.indexOf(questions[0])
+// console.log(y);
+
+// let y1 = questions.indexOf(questions[1])
+// console.log(y1);
+
+// console.log(questions[0]);
+// console.log(questions[1]);
+
+
+// console.log(questions[0].question);
+// console.log(questions[0].answers);
+
+// // console.log(questions[0].answers[0]);
+// console.log(questions[0].answers[0].text);
+
+// // console.log(questions[0].answers[1]);
+// console.log(questions[0].answers[1].text);
+
+// // console.log(questions[0].answers[2]);
+// console.log(questions[0].answers[2].text);
+
+// // console.log(questions[0].answers[3]);
+// console.log(questions[0].answers[3].text);
+
